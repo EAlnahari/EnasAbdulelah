@@ -1,4 +1,4 @@
-# Enas Abdulelah
+# Enas Alnahari
 
 Computer Science student at King Faisal University with a strong interest in Artificial Intelligence, Computer Vision, and IoT systems.
 
